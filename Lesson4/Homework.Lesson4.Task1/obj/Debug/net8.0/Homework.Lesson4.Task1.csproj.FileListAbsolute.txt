@@ -1,0 +1,15 @@
+C:\Users\Димоооон\Desktop\Учеба GB\01_CSHARP\Lesson4\Homework.Lesson4.Task1\bin\Debug\net8.0\Homework.Lesson4.Task1.exe
+C:\Users\Димоооон\Desktop\Учеба GB\01_CSHARP\Lesson4\Homework.Lesson4.Task1\bin\Debug\net8.0\Homework.Lesson4.Task1.deps.json
+C:\Users\Димоооон\Desktop\Учеба GB\01_CSHARP\Lesson4\Homework.Lesson4.Task1\bin\Debug\net8.0\Homework.Lesson4.Task1.runtimeconfig.json
+C:\Users\Димоооон\Desktop\Учеба GB\01_CSHARP\Lesson4\Homework.Lesson4.Task1\bin\Debug\net8.0\Homework.Lesson4.Task1.dll
+C:\Users\Димоооон\Desktop\Учеба GB\01_CSHARP\Lesson4\Homework.Lesson4.Task1\bin\Debug\net8.0\Homework.Lesson4.Task1.pdb
+C:\Users\Димоооон\Desktop\Учеба GB\01_CSHARP\Lesson4\Homework.Lesson4.Task1\obj\Debug\net8.0\Homework.Lesson4.Task1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Димоооон\Desktop\Учеба GB\01_CSHARP\Lesson4\Homework.Lesson4.Task1\obj\Debug\net8.0\Homework.Lesson4.Task1.AssemblyInfoInputs.cache
+C:\Users\Димоооон\Desktop\Учеба GB\01_CSHARP\Lesson4\Homework.Lesson4.Task1\obj\Debug\net8.0\Homework.Lesson4.Task1.AssemblyInfo.cs
+C:\Users\Димоооон\Desktop\Учеба GB\01_CSHARP\Lesson4\Homework.Lesson4.Task1\obj\Debug\net8.0\Homework.Lesson4.Task1.csproj.CoreCompileInputs.cache
+C:\Users\Димоооон\Desktop\Учеба GB\01_CSHARP\Lesson4\Homework.Lesson4.Task1\obj\Debug\net8.0\Homework.Lesson4.Task1.sourcelink.json
+C:\Users\Димоооон\Desktop\Учеба GB\01_CSHARP\Lesson4\Homework.Lesson4.Task1\obj\Debug\net8.0\Homework.Lesson4.Task1.dll
+C:\Users\Димоооон\Desktop\Учеба GB\01_CSHARP\Lesson4\Homework.Lesson4.Task1\obj\Debug\net8.0\refint\Homework.Lesson4.Task1.dll
+C:\Users\Димоооон\Desktop\Учеба GB\01_CSHARP\Lesson4\Homework.Lesson4.Task1\obj\Debug\net8.0\Homework.Lesson4.Task1.pdb
+C:\Users\Димоооон\Desktop\Учеба GB\01_CSHARP\Lesson4\Homework.Lesson4.Task1\obj\Debug\net8.0\Homework.Lesson4.Task1.genruntimeconfig.cache
+C:\Users\Димоооон\Desktop\Учеба GB\01_CSHARP\Lesson4\Homework.Lesson4.Task1\obj\Debug\net8.0\ref\Homework.Lesson4.Task1.dll
