@@ -6,7 +6,7 @@ class Program
 {   // Создаем рандомную строку
     string rndText = "goagaog";
     char[] reverseText = rndText.ToCharArray();
-    // Используем функцию для разворота текста
+    // Используем функцию для разворота строки
     Array.Reverse(reverseText);
     string finalText = new string(reverseText);
     // Сравниваем начальную строку и реверсированную с помощью условной конструкции if/else и выводим на экран ответ
